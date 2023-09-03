@@ -1,4 +1,4 @@
-#Blackjack Vite
+# Blackjack Vite
 
 This project has been developed with JavaScript, the purpose of it is to emulate a Blackjack game in which one of the players is the computer.
 
